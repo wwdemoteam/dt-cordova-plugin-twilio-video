@@ -1,0 +1,11 @@
+{
+    "version": "6.0.0",
+    "name": "cordova-plugin-twilio-video",
+    "cordova_name": "Twilio video plugin",
+    "license": "MIT",
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "engines": {}
+}
